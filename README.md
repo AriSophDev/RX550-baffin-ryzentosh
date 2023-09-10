@@ -14,4 +14,6 @@ Si tu tarjeta gráfica es una RX Polaris o cualquier otra compatible con macOS, 
 
 Esta EFI es compatible con todos los servicios de Apple.
 
+Recuerda que siempre será mejor comprar un dispositivo Apple que utilizar un Hackintosh.
+
 ![Captura de pantalla 2023-09-10 a la(s) 5 24 42 p m](https://github.com/AriSophDev/ryzentosh/assets/111167233/3b52766d-9e3f-4ff4-a1b5-e54e56e4b356)
