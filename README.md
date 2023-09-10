@@ -1,5 +1,5 @@
 # ryzentosh
-Efi Para Hackintosh con Amd Ryzen y Tarjeta de video rx 550.
+Efi Para Hackintosh con Amd Ryzen y Tarjeta de video rx 550 baffin core.
 Compatible con Mac os Ventura.
 
 Si usas esta efi para tu equipo recuerda usar Tu propio SMBIOS y el PlatformInfo el que te funcione mejor, en mi caso MacPro 7.1
