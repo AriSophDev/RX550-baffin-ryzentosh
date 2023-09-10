@@ -1,11 +1,17 @@
-# ryzentosh
-Efi Para Hackintosh con Amd Ryzen y Tarjeta de video rx 550 baffin core.
-Compatible con Mac os Ventura.
+# RYZENTOSH
 
-Si usas esta efi para tu equipo recuerda usar Tu propio SMBIOS y el PlatformInfo el que te funcione mejor, en mi caso MacPro 7.1
+EFI para Hackintosh con procesador AMD Ryzen y tarjeta de video RX 550 "Baffin Core".
 
-Si necesitas mas info para el SMBIOS y el platform info, ve al sitio oficial de oralila 
+Compatibilidad con macOS Ventura. (Próximamente, probaré Sonoma y actualizaré esta sección; por ahora, no lo he probado).
 
-Si tienes algun problema en especifico con mi efi, haz un "new Issue" e intentare ayudarte o arreglarlo
+Si decides utilizar esta EFI en tu equipo, recuerda configurar tu propio SMBIOS y PlatformInfo según lo que mejor funcione para ti. En mi caso, utilizo el perfil MacPro 7.1.
+
+Si necesitas más información sobre cómo configurar el SMBIOS y el PlatformInfo, visita el sitio oficial de OpenCore.
+
+Si te encuentras con algún problema específico relacionado con mi EFI, crea un nuevo "Issue" y trataré de ayudarte o solucionarlo.
+
+Si tu tarjeta gráfica es una RX Polaris o cualquier otra compatible con macOS, abre un nuevo "Issue" y la ajustaré.
+
+Esta EFI es compatible con todos los servicios de Apple.
 
 ![Captura de pantalla 2023-09-10 a la(s) 5 24 42 p m](https://github.com/AriSophDev/ryzentosh/assets/111167233/3b52766d-9e3f-4ff4-a1b5-e54e56e4b356)
