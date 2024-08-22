@@ -2,7 +2,9 @@
 
 EFI para Hackintosh con procesador AMD Ryzen y tarjeta de video RX 550 "Baffin Core".
 
-Compatibilidad con macOS Ventura. (Próximamente, probaré Sonoma y actualizaré esta sección; por ahora, no lo he probado).
+Compatibilidad con macOS Ventura.
+
+Ya es compatible con Sonoma
 
 Si decides utilizar esta EFI en tu equipo, recuerda configurar tu propio SMBIOS y PlatformInfo según lo que mejor funcione para ti. En mi caso, utilizo el perfil MacPro 7.1.
 
